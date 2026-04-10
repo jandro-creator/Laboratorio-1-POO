@@ -15,6 +15,15 @@ int main(){
         float multi= num1 * num2;
         printf("Su multiplicacion es %.2f\n", multi);
 
+        float resta= num1 - num2;
+        printf("Su resta es %.2f\n", resta);
+
+        float division= num1 * num2;
+        printf("Su division es %.2f\n",division);
+
+
+
+
     if(prom >= 14){
         printf("Aprueba");
     }else if (prom < 13.99 && prom >= 11){
